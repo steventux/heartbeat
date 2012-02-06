@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "heartbeat"
   gem.homepage = "http://github.com/steventux/heartbeat"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "An AMQP Heartbeat process"
+  gem.description = "AMQP Heartbeat"
   gem.email = "steve.laing@gmail.com"
   gem.authors = ["Steve"]
   # dependencies defined in Gemfile
