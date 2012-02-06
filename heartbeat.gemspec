@@ -26,6 +26,7 @@ Gem::Specification.new do |s|
     "Rakefile",
     "VERSION",
     "bin/heartbeat",
+    "heartbeat.gemspec",
     "lib/heartbeat.rb",
     "test/helper.rb",
     "test/test_heartbeat.rb"
