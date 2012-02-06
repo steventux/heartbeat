@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require 'heartbeat'
+
+Heartbeat.new.run
